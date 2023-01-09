@@ -11,6 +11,8 @@ I also love spending time doing some coding challenges in many platforms such as
 - 🌱 I’m currently learning/improving React/TypeScript.
 
 - 💞️ I’m looking to collaborate on any OpenSource project that I can help with, I love to help and contribute!
+   - Contribuitions:
+     - As-Raparigas-do-Codigo/jogo-das-profissoes 
 
 - 📫 How to reach me -> https://www.linkedin.com/in/pedromgleite/
 
