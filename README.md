@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedr0Leite, I'm a Software Application Developer with a true passion for coding.
 
-- 👀 I’m interested in JavaScript, NodeJS, React, TypeScript, NextJS, ServiceNow, Ethical Hacking, and Coding in general!
+- 👀 I’m interested in JavaScript, NodeJS, React, TypeScript, NextJS, Python, C#, Ethical Hacking, and Coding in general!
 I also love spending time doing some coding challenges on many platforms such as:
   - HackerRank
   - LeetCode
