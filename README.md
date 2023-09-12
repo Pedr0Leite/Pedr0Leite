@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pedr0Leite, I'm a ServiceNow Lead Application Developer with a true passion for coding.
+- 👋 Hi, I’m @Pedr0Leite, I'm a Software Application Developer with a true passion for coding.
 
-- 👀 I’m interested in JavaScript, NodeJS, React, TypeScript, NextJS, ServiceNow, Ethical Hacking and Coding in general!
-I also love spending time doing some coding challenges in many platforms such as:
+- 👀 I’m interested in JavaScript, NodeJS, React, TypeScript, NextJS, ServiceNow, Ethical Hacking, and Coding in general!
+I also love spending time doing some coding challenges on many platforms such as:
   - HackerRank
   - LeetCode
   - Codewars 
@@ -11,7 +11,7 @@ I also love spending time doing some coding challenges in many platforms such as
 - 🌱 I’m currently improving my skills with React/TypeScript/NextJS.
 
 - 💞️ I’m looking to collaborate on any OpenSource project that I can help with, I love to help and contribute!
-   - Contribuitions:
+   - Contributions:
      - As-Raparigas-do-Codigo/jogo-das-profissoes (2022)
 
 - 📫 How to reach me -> https://www.linkedin.com/in/pedromgleite/
