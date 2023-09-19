@@ -8,7 +8,7 @@ I also love spending time doing some coding challenges on many platforms such as
  
 ![codewars level](https://www.codewars.com/users/Pedr0Leite/badges/small)
 
-- 🌱 I’m currently improving my skills with React/TypeScript/NextJS.
+- 🌱 I’m currently improving my skills with C#
 
 - 💞️ I’m looking to collaborate on any OpenSource project that I can help with, I love to help and contribute!
    - Contributions:
